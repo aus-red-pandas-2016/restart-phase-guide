@@ -1,10 +1,10 @@
 # Restart Phase Guide
 
-This guide is intended for your gap time between cohorts. While this is comprehensive, feel free to leverage any other resources you find useful
+This guide is intended for your gap time between cohorts. While this guide is fairly comprehensive, feel free to leverage any other resources you find useful. This journey is as much about following your own curiosity as it is about following our guidance.
 
-Also, do keep in mind the growth mindset and [this article](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) throughout your gap time. Our hope is that your "internal monologue is not one of judgment but one of voracious appetite for learning, constantly seeking out the kind of input that you can metabolize into learning and constructive action."
+Also, please do keep in mind the growth mindset and [this article](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) throughout your gap time. Our hope is that your "internal monologue is not one of judgment but one of voracious appetite for learning, constantly seeking out the kind of input that you can metabolize into learning and constructive action."
 
-As always, we're here to support you and your learning so don't hestitate to reach out on Slack, email, or in person to ask any questions if you have them while reading and/or doing challenges. You're welcome onsite anytime during the interim.
+As always, we're here to support you and your learning so don't hesitate to reach out on Slack, email, Google hangout, or in person to ask any questions if you have them while reading and/or doing challenges. You're always welcome onsite anytime during the interim.
 
 
 ## Fundamentals
